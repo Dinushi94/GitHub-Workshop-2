@@ -16,11 +16,21 @@
 5. Push it to your remote repo
 6. Open a Pull Request (PR)
 
+## Use this command to clone:
+
+`git clone "link for the repository"`
+
+
+## Use this when pull:
+
+`git pull`
+
+
 ## Use this commands when push:
 
-`git add -A`
+`git add .`
 
-`git commit -m "your-name`
+`git commit -m "commit message`
 
 `git push origin master`
 
